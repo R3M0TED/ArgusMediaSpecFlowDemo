@@ -1,7 +1,4 @@
-﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using TechTalk.SpecFlow;
-using System.Collections.Generic;
+﻿using TechTalk.SpecFlow;
 using SeleniumWebDriverExamples.Runtime;
 
 namespace SpecFlowDemo
@@ -10,7 +7,6 @@ namespace SpecFlowDemo
     public class TestSetup
     {
         private readonly ScenarioContext _scenarioContext;
-
 
         public TestSetup(ScenarioContext scenarioContext)
         {

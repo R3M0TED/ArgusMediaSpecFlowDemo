@@ -4,7 +4,7 @@
     "name": "NUnit",
     "parallelExecution": {
       "enabled": true,
-      "maxParallelThreads": 4
+      "maxParallelThreads": 1
     }
   }
 }

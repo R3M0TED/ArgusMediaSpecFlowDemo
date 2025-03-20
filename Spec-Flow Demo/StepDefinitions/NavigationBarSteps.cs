@@ -1,10 +1,6 @@
-﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using SeleniumWebDriverExamples.PageObjectModels.NavigationBar;
-using SeleniumWebDriverExamples.Runtime;
+﻿using SeleniumWebDriverExamples.PageObjectModels.NavigationBar;
 using Spec_Flow_Demo.StepDefinitions;
 using SpecFlowDemo.PageObjectModels;
-using System.Xml.Linq;
 using TechTalk.SpecFlow;
 
 namespace SpecFlowDemo
