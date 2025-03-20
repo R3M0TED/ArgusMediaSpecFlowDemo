@@ -1,0 +1,10 @@
+﻿{
+  "bindingCulture": "en-US",
+  "testRunner": {
+    "name": "NUnit",
+    "parallelExecution": {
+      "enabled": true,
+      "maxParallelThreads": 4
+    }
+  }
+}
